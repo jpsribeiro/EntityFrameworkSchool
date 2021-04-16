@@ -1,0 +1,5 @@
+C:\Users\JOÃO\Desktop\projetos Vs19\EntityFramework\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csprojAssemblyReference.cache
+C:\Users\JOÃO\Desktop\projetos Vs19\EntityFramework\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\JOÃO\Desktop\projetos Vs19\EntityFramework\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfo.cs
+C:\Users\JOÃO\Desktop\projetos Vs19\EntityFramework\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO\Desktop\projetos Vs19\EntityFramework\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.MvcApplicationPartsAssemblyInfo.cache
